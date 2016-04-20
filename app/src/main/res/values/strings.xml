@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SekolahKu</string>
+    <string name="label">Pondok Duta</string>
+    <array name="jenjang">
+        <item>TK</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+    </array>
+    <array name="dummy">
+        <item>Adam</item>
+        <item>Idris</item>
+        <item>Nuh</item>
+        <item>Hud</item>
+        <item>Saleh</item>
+    </array>
+</resources>
